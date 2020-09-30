@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "/"
 languageCode = "en-us"
-title = "Conuco Worm Farm | Vermicompost, Earthworm Casting and compost tea provider in Barbados"
+title = "Conuco Worm Farm | Vermicompost, Earthworm Castings and Compost Tea provider in Barbados"
 theme = "hargo-hugo-ecommerce-theme"
 summaryLength = "20"
 paginate = 10
