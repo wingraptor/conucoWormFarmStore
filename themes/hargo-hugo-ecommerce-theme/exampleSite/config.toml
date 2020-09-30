@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://examplesite.com"
+baseURL = "https://conuco-worm-farm-store-akd7ae7dd.vercel.app"
 languageCode = "en-us"
 title = "Hargo | Hugo Ecommerce Site"
 theme = "hargo-hugo-ecommerce-theme"
