@@ -1,7 +1,7 @@
 ######################## default configuration ####################
-baseURL = "https://conuco-worm-farm-store-akd7ae7dd.vercel.app/"
+baseURL = "https://conuco-worm-farm-store-akd7ae7dd.vercel.app"
 languageCode = "en-us"
-title = "Hargo | Hugo Ecommerce Site"
+title = "Conuco Worm Farm | Vermicompost, Earthworm Casting and compost tea provider in Barbados"
 theme = "hargo-hugo-ecommerce-theme"
 summaryLength = "20"
 paginate = 10
