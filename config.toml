@@ -68,10 +68,10 @@ disqusShortname = ""
   URL = "faq"
   weight = 3
   
-  [[menu.footer]]
-  name = "Terms & Conditions"
-  URL = "terms-conditions"
-  weight = 4
+  # [[menu.footer]]
+  # name = "Terms & Conditions"
+  # URL = "terms-conditions"
+  # weight = 4
   
   [[menu.footer]]
   name = "Contact"
@@ -84,21 +84,21 @@ disqusShortname = ""
 logo = "images/logo.png"
 home = "Home"
 # Meta data
-description = "This is meta description"
+description = "Conuco Worm Farm is a producer of premium vermicompost and other vermicompost-derived materials which is based in Barbados."
 author = "Themefisher"
 # google map
 gmapAPI = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
-mapLatitude = "51.5223477"
-mapLongitude = "-0.1622023"
+mapLatitude = "13.108708"
+mapLongitude = "-59.612100"
 mapMarker = "images/marker.png"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
 # Contact Information
-mobile = "0124857985320"
-email = "demo@email.com"
-location = "Dhaka, Bangladedsh"
+mobile = "+ 1 246 846 8494"
+email = "info@conucowormfarm.com"
+location = "St. Michael, Barbados"
 # copyright
-copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
+# copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
 
   # Preloader
   [params.preloader]
@@ -115,23 +115,23 @@ copyright = "| Copyright &copy; 2019 [Gethugothemes](https://gethugothemes.com) 
   # Social Site
   [[params.social]]
   icon = "ti-facebook"
-  link = "#"
+  link = "https://fb.me/conucowormfarm"
   
   [[params.social]]
   icon = "ti-twitter-alt"
-  link = "#"
+  link = "https://twitter.com/conucowormfarm"
   
-  [[params.social]]
-  icon = "ti-youtube"
-  link = "#"
+  # [[params.social]]
+  # icon = "ti-youtube"
+  # link = "#"
   
   [[params.social]]
   icon = "ti-instagram"
-  link = "#"
+  link = "https://instagram.com/conucowormfarm"
   
-  [[params.social]]
-  icon = "ti-pinterest"
-  link = "#"
+  # [[params.social]]
+  # icon = "ti-pinterest"
+  # link = "#"
 
   # Contact Form
   [params.contact]
