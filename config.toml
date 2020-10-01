@@ -81,7 +81,7 @@ disqusShortname = ""
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "images/logo_transparent.png"
 home = "Home"
 # Meta data
 description = "Conuco Worm Farm is a producer of premium vermicompost and other vermicompost-derived materials which is based in Barbados."
