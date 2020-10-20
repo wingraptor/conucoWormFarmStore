@@ -72,6 +72,11 @@ disqusShortname = ""
   name = "FAQ"
   URL = "faq"
   weight = 3
+
+  [[menu.footer]]
+  name = "Calculator"
+  URL = "https://vermicompost-calculator.vercel.app/"
+  weight = 4
   
   # [[menu.footer]]
   # name = "Terms & Conditions"
