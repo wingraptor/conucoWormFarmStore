@@ -1,5 +1,5 @@
 ---
-title: "Vermicompost - 2kg"
+title: "Vermicompost - 4.5lbs"
 date: 2019-10-17T11:22:16+06:00
 draft: false
 
@@ -7,11 +7,11 @@ draft: false
 # description : "For Glowing Skin"
 
 # product Price
-price: "20.00$"
+price: "$20.00"
 # priceBefore: "25.00$"
 
 # Product Short Description
-shortDescription: "A 2kg bag of our premium vermicompost product. <br> <br> **Appropriate for a 4ft x 8ft raised bed.**"
+shortDescription: "A 4.5lbs (2.2kg) bag of our premium vermicompost product. <br> <br> **Use our [calculator](https://vermicompost-calculator.vercel.app/) to find out how much you need.**"
 
 #product ID
 productID: "2"

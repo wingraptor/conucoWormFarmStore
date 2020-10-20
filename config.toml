@@ -43,14 +43,19 @@ disqusShortname = ""
   weight = 2
   
   [[menu.main]]
+  name = "Calculator"
+  URL = "https://vermicompost-calculator.vercel.app/"
+  weight = 3
+
+  [[menu.main]]
   name = "FAQ"
   URL = "faq"
-  weight = 3
+  weight = 4
   
   [[menu.main]]
   name = "Contact"
   URL = "contact"
-  weight = 4
+  weight = 5
 
   ############# footer menu #############
   [[menu.footer]]
@@ -135,4 +140,4 @@ location = "St. Michael, Barbados"
 
   # Contact Form
   [params.contact]
-  formAction = "#" # contact form works with formspree.io
+  formAction = "https://formspree.io/f/mqkganej" # contact form works with formspree.io
