@@ -22,10 +22,10 @@ type: "products"
 # product Images
 # first image will be shown in the product page
 images:
-  - image: "images/products/product-3.png"
-  - image: "images/products/product-2.png"
-  - image: "images/products/product-1.png"
-  - image: "images/products/product-4.png"
+  - image: "images/products/vermicompost-5lbs-1.jpg"
+  - image: "images/products/vermicompost-5lbs-2.jpg"
+  # - image: "images/products/product-1.png"
+  # - image: "images/products/product-4.png"
 ---
 
 Vermicompost is a rich product produced through the decomposition of organic matter, such as fruits/vegetables and garden waste, through the action of earthworms and microbes. 
