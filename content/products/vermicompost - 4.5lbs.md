@@ -23,7 +23,7 @@ type: "products"
 # first image will be shown in the product page
 images:
   - image: "images/products/vermicompost-5lbs-1.jpg"
-  - image: "images/products/vermicompost-5lbs-2.jpg"
+  # - image: "images/products/vermicompost-5lbs-2.jpg"
   # - image: "images/products/product-1.png"
   # - image: "images/products/product-4.png"
 ---
