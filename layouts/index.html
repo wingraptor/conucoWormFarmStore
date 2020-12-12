@@ -181,11 +181,27 @@
               <span class="lead text-primary">{{ .Params.Price }}</span>
               <s>{{ .Params.PriceBefore }}</s>
             </div>
-            <button class="snipcart-add-item btn btn-sm btn-outline-primary" data-item-id="{{ .Params.ProductID }}"
+						<a
+							href="javascript:void(
+								window.open(
+									'https://form.jotform.com/203364267701856',
+									'blank',
+									'scrollbars=yes,
+									toolbar=no,
+									width=700,
+									height=500'
+								)
+							)
+						">
+							<button class="snipcart-add-item btn btn-sm btn-outline-primary">
+								Add to cart
+							</button>
+						</a>
+            <!-- <button class="snipcart-add-item btn btn-sm btn-outline-primary" data-item-id="{{ .Params.ProductID }}"
               data-item-name="{{ .Title }}" {{ range first 1 .Params.Images }} data-item-image="{{ .image | absURL }}"
               {{ end }} data-item-price="{{ .Params.Price }}" data-item-url="{{ .Permalink }}">
               Add to cart
-            </button>
+            </button> -->
           </div>
         </div>
       </div>
