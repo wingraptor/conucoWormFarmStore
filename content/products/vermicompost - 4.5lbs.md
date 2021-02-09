@@ -4,7 +4,7 @@ date: 2019-10-17T11:22:16+06:00
 draft: false
 
 # meta description
-# description : "For Glowing Skin"
+# description : "5lb bag of vermicompost for use as a fertilizer in your garden to promote soil and plant health."
 
 # product Price
 price: "$18.00"
@@ -14,7 +14,7 @@ price: "$18.00"
 shortDescription: "A 5lbs (2.25kg) bag of our premium vermicompost product. <br> <br> **Use our [calculator](https://vermicompost-calculator.vercel.app/) to find out how much you need.**"
 
 #product ID
-productID: "2"
+productID: "1"
 
 # type must be "products"
 type: "products"
