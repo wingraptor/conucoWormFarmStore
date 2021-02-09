@@ -7,11 +7,11 @@ draft: false
 # description : "For Glowing Skin"
 
 # product Price
-price: "$20.00"
+price: "$18.00"
 # priceBefore: "25.00$"
 
 # Product Short Description
-shortDescription: "A 4.5lbs (2.2kg) bag of our premium vermicompost product. <br> <br> **Use our [calculator](https://vermicompost-calculator.vercel.app/) to find out how much you need.**"
+shortDescription: "A 5lbs (2.25kg) bag of our premium vermicompost product. <br> <br> **Use our [calculator](https://vermicompost-calculator.vercel.app/) to find out how much you need.**"
 
 #product ID
 productID: "2"
