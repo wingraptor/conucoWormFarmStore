@@ -3,7 +3,7 @@ title: How Do You Apply Vermicompost?"
 date: 2020-02-17T11:22:16+06:00
 draft: false
 description : "In this post we teach you how to apply vermicompost which you have purchased from us"
-image: "images/blog/post-1.jpg"
+image: "images/about2.jpg"
 author: "Akono"
 ---
 
