@@ -79,9 +79,12 @@ s0.parentNode.insertBefore(s1,s0);
 </script>
 <!--End of Tawk.to Script-->
 
-<!--  Start of Goat Counter Script -->
-<script data-goatcounter="https://conucowormfarm.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
-<!-- End of Goat Counter Script -->
+<!-- Panelbear Analytics - We respect your privacy -->
+<script async src="https://cdn.panelbear.com/analytics.js?site=8DdiS6dCDHB"></script>
+<script>
+    window.panelbear = window.panelbear || function() { (window.panelbear.q = window.panelbear.q || []).push(arguments); };
+    panelbear('config', { site: '8DdiS6dCDHB' });
+</script>
 
 {{ "<!-- Main Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify}}
