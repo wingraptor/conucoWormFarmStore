@@ -3,8 +3,14 @@ contact:
   enable : true
   # office
   office:
-    title : "Office"
-    # content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna"
+    title : "About Us"
+    content : "What started as a series of happy mistakes evolved into a hobby, and from there, Conuco Worm Farm was formed. 
+    
+    Founded by Akono and Bryan in Nov. 2020, Conuco Worm Farm aims to bring natural fertility back to your garden. 
+    
+    To do this we raise our worms on locally available materials to produce 'black gold' or vermicompost, vermicompost extracts and teas.
+    
+    The name 'Conuco' is an homage to the native Tainos, one of the original inhabitants of the Caribbean. They used their /conucos,/ or small mounds of fertile land to grow foods such as /papaya/ (pawpaw) and /yuca/ (cassava) using natural means. We hope that you too are able to experience all that vermicompost has to offer."
     # other information comes from "config.toml"
 
   # opennig hour
@@ -21,4 +27,4 @@ contact:
 
 ####################### google map ########################
 map:
-  enable: true
+  enable: false
