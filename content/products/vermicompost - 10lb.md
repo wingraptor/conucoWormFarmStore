@@ -4,7 +4,7 @@ date: 2019-10-17T11:22:16+06:00
 draft: false
 
 # meta description
-# description : "5lb bag of vermicompost for use as a fertilizer in your garden to promote soil and plant health."
+description : "10lb bag of vermicompost for use as a fertilizer in your garden to promote soil and plant health."
 
 # product Price
 price: "$30.00"

@@ -181,7 +181,16 @@
               <span class="lead text-primary">{{ .Params.Price }}</span>
               <s>{{ .Params.PriceBefore }}</s>
             </div>
-						<a
+
+            <!-- In stock button with snipcart  -->
+            <!-- <button class="snipcart-add-item btn btn-sm btn-outline-primary" data-item-id="{{ .Params.ProductID }}"
+              data-item-name="{{ .Title }}" {{ range first 1 .Params.Images }} data-item-image="{{ .image | absURL }}"
+              {{ end }} data-item-price="{{ .Params.Price }}" data-item-url="{{ .Permalink }}">
+              Add to cart
+            </button> -->
+
+            <!-- In stock button with jotform -->
+						<!-- <a
 							href="javascript:void(
 								window.open(
 									'https://form.jotform.com/203364267701856',
@@ -196,12 +205,13 @@
 							<button class="snipcart-add-item btn btn-sm btn-outline-primary">
 								Add to cart
 							</button>
-						</a>
-            <!-- <button class="snipcart-add-item btn btn-sm btn-outline-primary" data-item-id="{{ .Params.ProductID }}"
-              data-item-name="{{ .Title }}" {{ range first 1 .Params.Images }} data-item-image="{{ .image | absURL }}"
-              {{ end }} data-item-price="{{ .Params.Price }}" data-item-url="{{ .Permalink }}">
-              Add to cart
-            </button> -->
+						</a> -->
+
+            <!-- Out of stock button -->
+            <button class="btn btn-sm btn-outline">
+              Out of Stock
+            </button>
+
           </div>
         </div>
       </div>
