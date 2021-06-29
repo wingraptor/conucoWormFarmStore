@@ -1,20 +1,20 @@
 ---
-title: "Vermicompost - 5lbs"
+title: "Vermicompost - 10lbs w/bat guano"
 date: 2019-10-17T11:22:16+06:00
 draft: false
 
 # meta description
-description : "5lb bag of vermicompost for use as a fertilizer in your garden to promote soil and plant health."
+description : "10lb bag of vermicompost with added aged bat guano for use as a fertilizer in your garden to promote soil and plant health."
 
 # product Price
-price: "$18.00"
+price: "$40.00"
 # priceBefore: "25.00$"
 
 # Product Short Description
-shortDescription: "A 5lbs (2.25kg) bag of our premium vermicompost product. <br> <br> **Use our [calculator](https://vermicompost-calculator.vercel.app/) to find out how much you need.**"
+shortDescription: "A 10lbs (4.5kg) bag of our premium vermicompost product with an added boost of aged bat guano. <br> <br> **Use our [calculator](https://vermicompost-calculator.vercel.app/) to find out how much you need.**"
 
 #product ID
-productID: "1"
+productID: "3"
 
 # type must be "products"
 type: "products"
